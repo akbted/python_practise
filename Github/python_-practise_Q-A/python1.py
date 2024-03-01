@@ -6,3 +6,4 @@ print("Hello" + " How are you ?") #Concat two strings
 
 #Integers 
 print(1+2) #This will print the sum 
+print("Hi!" * 5) #This will print hi 5 times
